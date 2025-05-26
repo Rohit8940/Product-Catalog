@@ -2,7 +2,7 @@
   "name": "product-catalog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rohit8940.github.io/Product-Catalog",
+  "homepage": "/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "react": "^19.1.0",
