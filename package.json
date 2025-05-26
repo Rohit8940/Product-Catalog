@@ -15,7 +15,9 @@
     "build": "react-scripts build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +44,9 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
     "babel-jest": "^29.7.0",
+    "gh-pages": "^6.3.0",
     "jest": "^27.5.1"
-  }
+  },
+  "homepage": "https://Rohit8940.github.io/Product-Catalog"
 }
+
