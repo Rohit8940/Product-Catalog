@@ -31,6 +31,6 @@ Welcome to the **Product Catalog** – a clean and modern web application to bro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rohit8940/product-catalog.git
-cd product-catalog
+git clone https://github.com/rohit8940/Product-Catalog.git
+cd Product-Catalog
 npm install
